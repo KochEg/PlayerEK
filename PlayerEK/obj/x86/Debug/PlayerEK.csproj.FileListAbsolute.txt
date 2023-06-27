@@ -1,0 +1,16 @@
+F:\Coding\PlayerEK\PlayerEK\bin\x86\Debug\Bass.Net.dll
+F:\Coding\PlayerEK\PlayerEK\bin\x86\Debug\bass.dll
+F:\Coding\PlayerEK\PlayerEK\bin\x86\Debug\PlayerEK.exe.config
+F:\Coding\PlayerEK\PlayerEK\bin\x86\Debug\PlayerEK.exe
+F:\Coding\PlayerEK\PlayerEK\bin\x86\Debug\PlayerEK.pdb
+F:\Coding\PlayerEK\PlayerEK\bin\x86\Debug\CodeeloUI.dll
+F:\Coding\PlayerEK\PlayerEK\bin\x86\Debug\ColorSlider.dll
+F:\Coding\PlayerEK\PlayerEK\obj\x86\Debug\PlayerEK.csproj.AssemblyReference.cache
+F:\Coding\PlayerEK\PlayerEK\obj\x86\Debug\PlayerEK.csproj.SuggestedBindingRedirects.cache
+F:\Coding\PlayerEK\PlayerEK\obj\x86\Debug\PlayerEK.MusicPlayer.resources
+F:\Coding\PlayerEK\PlayerEK\obj\x86\Debug\PlayerEK.Properties.Resources.resources
+F:\Coding\PlayerEK\PlayerEK\obj\x86\Debug\PlayerEK.csproj.GenerateResource.cache
+F:\Coding\PlayerEK\PlayerEK\obj\x86\Debug\PlayerEK.csproj.CoreCompileInputs.cache
+F:\Coding\PlayerEK\PlayerEK\obj\x86\Debug\PlayerEK.csproj.CopyComplete
+F:\Coding\PlayerEK\PlayerEK\obj\x86\Debug\PlayerEK.exe
+F:\Coding\PlayerEK\PlayerEK\obj\x86\Debug\PlayerEK.pdb
